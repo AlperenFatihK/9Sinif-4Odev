@@ -1,5 +1,5 @@
-#Ödevim Bitti.
-###Not: Ödevi çok daha önce yapmıştım fakat, google colab'dan sonra save'lemeyi unuttuğum için biraz gecikme oldu, kusura bakmayın.
+# Ödevim Bitti.
+### Not: Ödevi çok daha önce yapmıştım fakat, google colab'dan sonra save'lemeyi unuttuğum için biraz gecikme oldu, kusura bakmayın.
 # 9Sinif-4Odev
 ## Çapa Fen Lisesi 9.Sınıf Fizik Dersi 4.Ödevi
 
